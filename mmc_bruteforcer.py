@@ -21,7 +21,7 @@ passwords = {}
 proxys = {}
 buffer = {}
 
-blacklisted_accs = ["Dominika0619", "milkaboci19", "_apucikislanya_", "Levi2288", "LEVI2288", "Levi2288v2", "raktarocska"]
+blacklisted_accs = ["Dominika0619", "milkaboci19", "_apucikislanya_", "Levi2288", "LEVI2288", "AkiraUser"]
 
 
 def GenerateAccount(username, pw):
