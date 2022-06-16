@@ -47,7 +47,7 @@ def GenerateAccount(username, pw):
                     "http": None,
                 }
 
-            msg_return = requests.post(f'http://banyakozpont.mestermc.hu/', data={"username": {username}, "password": {pw}, "getmodule": "login"}, proxies=buffer, timeout=3)
+         #removed the brain code :D
 
             print(msg_return.content)
             if msg_return.history:
