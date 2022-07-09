@@ -47,7 +47,7 @@ def GenerateAccount(username, pw):
                     "http": None,
                 }
 
-         #removed the main code :D
+         #removed the main code :D cuz of skids
 
             print(msg_return.content)
             if msg_return.history:
